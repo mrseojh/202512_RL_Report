@@ -140,9 +140,7 @@ Q(s,a) ← Q(s,a) + α(r + γ·max Q(s',·) − Q(s,a))
 ## 7. 학습 결과
 
 ### 학습 곡선
-(파일: training_returns.png)
-
-> GitHub에 파일이 업로드되면 자동으로 렌더링됩니다.
+<img src="training_returns.png">
 
 ### 에피소드 보상 평균
 
@@ -181,6 +179,7 @@ if energy_bin ≥ 3: Record else Skip
 ```
 
 ### 비교 결과 (evaluate_policies.py)
+<img src="policy_comparison.png">
 
 ```
 Rule-based total reward = 312.0
