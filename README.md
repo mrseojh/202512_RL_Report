@@ -25,10 +25,10 @@
 
 본 프로젝트에서는 다음 두 파일만 사용하였다.
 
-| 용도 | 파일명 |
-|------|--------|
-| 학습 | road_sound_test1.wav |
-| 검증 | road_sound_test2.wav |
+| 용도 | 파일명 | 파일링크 |
+|------|--------|--------|
+| 학습 | road_sound_test1.wav | https://1drv.ms/u/c/bb3001989588ccef/EUcXETk59gpPnZl1epN52L4BaqrTrCrWJlicUED5xs_GKA?e=k0agsd |
+| 검증 | road_sound_test2.wav | https://1drv.ms/u/c/bb3001989588ccef/EcCmoriJo9ZKm9PAkO5iPKYBMeuD-J1DTlzd9vRhGDIP3w?e=apfwsz |
 
 ---
 
